@@ -17,7 +17,7 @@ Benefits:
 
   -Automates human action classification in videos with high accuracy.
   
-  -User-friendly web interface allows for easy interaction and analysis.
+  -User-friendly interface allows for easy interaction and analysis.
   
   -Potential to expand and classify a wider range of human actions.
   
