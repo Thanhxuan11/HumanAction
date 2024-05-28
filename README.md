@@ -5,7 +5,7 @@ Skills:
   
   -Python Programming
   
-  -Flask
+  -PyQt5
   
   -OpenCV (or similar computer vision library)
   
